@@ -7,4 +7,8 @@
     <RootNamespace>Proyecto_KanBan</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.5.1" />
+  </ItemGroup>
+
 </Project>
